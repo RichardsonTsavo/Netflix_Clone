@@ -1,6 +1,6 @@
 # netflixclone
 
-Clone do aplicativo da NetFlix
+Clone do aplicativo da Netflix
 
 ## Getting Started
 
